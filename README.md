@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Conway's Game of Life — Laravel Implementation
 
 A simple, server-rendered implementation of Conway's Game of Life built with Laravel and Blade. No JavaScript, no database — the entire simulation is computed in PHP on the server and rendered as plain HTML/CSS.
@@ -134,6 +133,3 @@ No database setup or migrations are required — this project does not use a dat
 - Add automated tests (PHPUnit) covering `GameOfLifeService` rules, edge cases (corners/edges of the board), and the Glider's known movement pattern.
 - Support toggleable wrap-around (toroidal) board edges as an alternative ruleset.
 - Allow other classic patterns (Blinker, Block, Pulsar) to be selected instead of only the Glider.
-=======
-# game-of-life-task
->>>>>>> a30435e058c2271cff057276a5c319d10def8b87
